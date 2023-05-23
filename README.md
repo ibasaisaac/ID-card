@@ -1,6 +1,6 @@
 # industrial training
 
-A new Flutter project.
+A new Flutter project: Single page app which looks like an ID card of your University or college.
 
 ## Getting Started
 
