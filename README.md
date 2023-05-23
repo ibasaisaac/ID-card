@@ -1,4 +1,4 @@
-# training
+# industrial training
 
 A new Flutter project.
 
